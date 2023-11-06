@@ -117,7 +117,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 
 ## Ответ 1
-Gitlab при регистрации (любым путем github / google / mail) требует номер телефона) К сожалению, у меня только РФ номер)  Мог бы развернуть его локально, как делал в домашке (https://github.com/alexandreevich/sdvps-homeworks/blob/main/8-03.md).
+Gitlab при регистрации (любым путем github / google / mail) требует номер телефона) К сожалению, у меня только РФ номер)  Ранее разворачивал его локально в домашке (https://github.com/alexandreevich/sdvps-homeworks/blob/main/8-03.md). Немного поработал с ним, в целом все аналогично с github) 
+
+![Снимок экрана 2023-11-06 в 18 40 01](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/b507b708-f0bf-40d0-80eb-99c51a61fc6d)
 
 
 
@@ -138,9 +140,13 @@ Gitlab при регистрации (любым путем github / google / ma
 ## Ответ 2 
 
 - Тег один
+  
+![Снимок экрана 2023-11-06 в 18 58 48](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/2ed4b3e2-c6fc-4e2a-8e4b-d47406a0db77)
 
+  
 - Тег два
 
+![Снимок экрана 2023-11-06 в 19 00 26](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/f21e58c1-3bee-42b1-8134-fcb1e7e933d1)
 
 
 
@@ -162,7 +168,18 @@ Gitlab при регистрации (любым путем github / google / ma
 
 ## Ответ 3
 
+Новая ветка: 
 
+![Снимок экрана 2023-11-06 в 19 04 23](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/673e6d79-07fd-4695-84ed-ed9f628b6ad1)
+
+Новая ветка после добавления строчки :
+
+ ![Снимок экрана 2023-11-06 в 19 08 08](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/fd6bbafe-0879-485c-95da-3e97af0702e3)
+
+Вывод git log :
+
+
+![Снимок экрана 2023-11-06 в 19 08 34](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/8c7f4cf1-4452-4e44-89d3-3dd2d509083e)
 
 
 
@@ -189,6 +206,9 @@ Gitlab при регистрации (любым путем github / google / ma
 
 ## Ответ 4
 
+Я работаю с VSCode. Ставил в нее плагины, у меня при работе с командной строкой отображается сразу статус:
+
+![Снимок экрана 2023-11-06 в 19 37 02](https://github.com/alexandreevich/sysadm-homeworks/assets/109306886/d0664666-19ad-4235-be06-979bdb784f88)
 
 
  
